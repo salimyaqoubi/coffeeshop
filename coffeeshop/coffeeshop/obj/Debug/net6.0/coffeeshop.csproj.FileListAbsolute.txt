@@ -1,0 +1,30 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\refint\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\ref\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\refint\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\bin\Debug\net6.0\coffeeshop.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\coffeeshop.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\coffeeshop\coffeeshop\coffeeshop\obj\Debug\net6.0\ref\coffeeshop.dll
